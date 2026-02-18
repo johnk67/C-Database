@@ -1,0 +1,38 @@
+help
+
+list
+name
+search
+Tires
+delete
+add
+Wheel
+Stainless steel wheel
+1021
+1022
+-5000
+5000
+4000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+40
+add
+Brake Rotor
+Brake rotors for sedan
+1522
+10000
+30
+add
+Cabin Filteraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Cabin air filter
+1222
+2000
+20
+search
+Wheel
+modify
+quantity
+-30
+30
+exit
+list
+id
+exit
